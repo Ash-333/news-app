@@ -1,0 +1,1 @@
+{"version":3,"file":"static/css/main.25844652.css","mappings":"AAEA,SAGE,kBAAmB,CAFnB,YAAa,CACb,qBAAsB,CAGtB,cAAe,CADf,kBAEF","sources":["index.css"],"sourcesContent":["\n\n.mainDiv{\n  display: flex;\n  flex-direction: column;\n  align-items: center;\n  margin-bottom: 20px;\n  flex-wrap: wrap;\n}\n"],"names":[],"sourceRoot":""}
